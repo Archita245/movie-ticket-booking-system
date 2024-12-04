@@ -1,4 +1,4 @@
-# movie-ticket-booking-system
+# Movie-Ticket-Booking-System
 
 ## Project Overview
 This program is a **movie ticket booking system** written in C. It allows users to:
